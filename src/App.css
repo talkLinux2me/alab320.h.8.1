@@ -1,0 +1,42 @@
+#root{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.starShips{
+  display: flex;
+  flex-wrap: wrap;
+  width: 85%;
+  height: 30vmax;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+h1{
+  color: white;
+  background-color: rgb(20, 90, 32);
+  display: flex;
+  border: solid;
+  justify-content: center;
+  align-items: center;
+text-align: center;
+width: 24%;
+height: 25%;
+}
+h2{
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+  text-align: center;
+  color: white;
+  background-color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.header{
+  height: 20%;
+}
